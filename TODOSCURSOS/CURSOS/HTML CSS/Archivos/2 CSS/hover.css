@@ -1,0 +1,11 @@
+button{
+    background: purple;
+    color: rgb(79, 255, 232);
+}
+button:hover{
+    background: rgb(79, 255, 232);
+    color: purple;
+}
+button:active{
+    background: pink;
+}

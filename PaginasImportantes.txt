@@ -1,0 +1,25 @@
+Repositorio Personal
+- https://github.com/EdwarMunoz316
+
+Para subir a la web rapido
+- https://app.netlify.com/drop
+- https://app.netlify.com/teams/edwarmunoz316/overview
+
+Para investigar dudas
+- https://developer.mozilla.org/es/
+
+Para buscar iconos
+- https://fontawesome.com/icons
+
+Laravel
+- https://laravel.com/docs/11.x
+
+Estilos
+- https://getbootstrap.com/
+- https://tailwindcss.com/
+
+Laragon
+- https://laragon.org/download/
+
+Gestor de base de datos
+- https://dbeaver.io/

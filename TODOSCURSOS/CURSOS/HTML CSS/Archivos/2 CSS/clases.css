@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    font-size: 100px;
+}
+#unico{
+    color: red;
+    font-size: 100px;
+}
+.rojo{
+    color: red;
+}
+.fondo{
+    background: #444;
+}

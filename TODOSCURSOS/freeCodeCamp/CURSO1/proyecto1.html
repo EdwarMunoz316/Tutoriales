@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lan="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Proyecto</title>
+    <link rel="stylesheet" href="proyecto1.css">
+  </head>
+  <body>
+    <h1 id="title">Proyecto Formulario</h1>
+    <p id="description">Esto es un proyecto echo con html y css</p>
+    <form id="survey-form">
+    <fieldset>
+      <label for="name" id="name-label">Ingrese su nombre: <input class="texto" id="name" name="name" type="text" required placeholder="Nombre"></label>
+      <label for="email" id="email-label">Ingrese su correo: <input class="texto" id="email" name="email" type="email" required placeholder="Email"></label>
+      <label for="number" id="number-label">Ingrese su numero: <input class="texto" type="number" id="number" name="number" required min=0 max=100 placeholder="Numero"></label>
+    </fieldset>
+    <fieldset>
+      <legend>Seleccione algo: </legend>
+      <label>
+      <select id="dropdown" class="texto">
+        <option>1</option>
+        <option>2</option>
+      </select>
+      </label>
+    </fieldset>
+    <fieldset>
+      <legend>Seleccione algo: </legend>
+      <label for="1" class="checkbox"><input id="1" name="1" type="checkbox" value="1"> 1</label>
+      <label for="2" class="checkbox"><input id="2" name="2" type="checkbox" value="2"> 2</label>
+      <label for="3" class="checkbox"><input id="3" name="3" type="checkbox" value="3"> 3</label>
+      <label for="4" class="checkbox"><input id="4" name="4" type="checkbox" value="4"> 4</label>
+      <label for="5" class="checkbox"><input id="5" name="5" type="checkbox" value="5"> 5</label>
+    </fieldset>
+    <fieldset>
+      <legend>Elija una opcion: </legend>
+      <label for="radio" class="radio"><input type="radio" name="radio" value="x">x</label>
+      <label for="radio" class="radio"><input type="radio" name="radio" value="d">d</label>
+    </fieldset>
+    <fieldset>
+      <label for="bio">Comentario 
+        <textarea class="texto" id="bio" name="bio" placehorder="Comentario" rows="6"></textarea>
+      </label>
+    </fieldset>
+    <input id="submit" type="submit" value="Submit">
+    </form>
+  </body>
+</html>

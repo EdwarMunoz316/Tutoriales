@@ -1,0 +1,33 @@
+h1{
+    background: red;
+
+    /* margen a la izquierda */
+    margin-left: 100px;
+
+    /* margen abajo */
+    margin-bottom: 200px;
+
+    /* margen arriba */
+    margin-top: 50px;
+
+    /* margen a la derecha */
+    margin-right: 200px;
+}
+h2{
+    background: violet;
+
+    /* Todos lados 
+    margin: 50px; */
+
+    /* Margen para arriba-abajo y despues izquierda-derecha 
+    margin: 100px 200px; */
+
+    /* Margen como las manecillas del reloj arriba-derecha-abajo-izquierda */
+    margin: 100px 10px 100px 500px;
+}
+p{
+    background: greenyellow;
+
+    /* El padding sirve igual que con el margin ( left, top, bottom, right y lo demas ) lo que cambia es que es la margen interna del bloque */
+    padding: 100px;
+}

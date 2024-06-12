@@ -1,0 +1,14 @@
+nav{
+    background: cadetblue;
+    padding: 20px;
+}
+.columna{
+    background: rgb(209, 77, 99);
+    color: rgb(255, 218, 185);
+    padding: 20px;
+    width: 33.3%;
+    margin: 20px;
+}
+.padre{
+    display: flex;
+}

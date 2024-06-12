@@ -1,0 +1,68 @@
+/* *{
+    color: white;
+}
+body{
+    background-color: #333;
+}
+label{
+    font-size: 30px;
+}
+input{
+    margin: 0px 50px;
+    color: black;
+}
+section{
+    font-size: 30px;
+    display: inline-block;
+}
+h1{
+    font-size: 50px;
+    padding-right: 0px;
+}
+.suma, .resta, .multi, .div{
+    width: 45%;
+    margin: 80px 30px; 
+    text-align: center;
+    padding-bottom: 50px;
+    border-radius: 20px;
+}
+.suma{
+    border: 5px solid green;
+}
+.resta{
+    border: 5px solid blue;
+}
+.multi{
+    border: 5px solid red;
+}
+.div{
+    border: 5px solid purple;
+}
+.menor{
+    color: tomato;
+}
+.mayor{
+    color: limegreen;
+}
+.titulo{
+    margin: 30px;
+}
+@media (max-width: 1400px){
+    input{
+        margin: 0px 50px;
+        color: purple;
+    }
+    label{
+        font-size: 20px;
+    }
+    .suma, .resta, .multi, .div{
+        width: 30%;
+        margin: 30px 30px; 
+        text-align: center;
+        padding-bottom: 50px;
+        border-radius: 20px;
+        font-size: 20px;
+        overflow: hidden;
+    }
+}
+ */
